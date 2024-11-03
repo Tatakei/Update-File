@@ -1,1 +1,5 @@
-This is the Update File for Flinguino
+Update V1.0.0.1
+
+Added: Nothing
+Removed: Absoluetly Nothing
+Edited: Update.txt
